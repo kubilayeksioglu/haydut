@@ -1,0 +1,6 @@
+numpy
+scipy
+runstats
+jupyterlab
+matplotlib
+pandas
